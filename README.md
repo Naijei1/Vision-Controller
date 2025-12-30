@@ -7,7 +7,7 @@ This is a small Python script that automatically plays the **Human Benchmark Aim
 
 It uses screen capture and template matching to locate the red target on your screen and click it as fast as possible.
 
-On my setup it averages around **225 ms** per target.
+On my setup it averages around **230 ms** per target.
 
 ---
 
